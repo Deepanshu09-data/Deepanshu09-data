@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deepanshu09-data
 - 👀 I’m interested in data engineering
 - 🌱 I’m currently learning bca(FSD)
-- 💞️ I’m looking to collaborate on infosis
+- 💞️ I’m looking to collaborate on Deloitte 
 - 📫 How to reach me - babitasagar777@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: my only weakness is i m acrophobic!
